@@ -1,0 +1,1 @@
+DO NOT UNDER ANY CIRCUMSTANCE MODIFY THESE SCRIPTS. Once they've been created, they're to be left as is for analysis consistency purposes. I've got half a mind to make the entire folder read only.

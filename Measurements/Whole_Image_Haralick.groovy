@@ -1,0 +1,3 @@
+clearAllObjects();
+createSelectAllObject(true);
+runPlugin('qupath.lib.algorithms.IntensityFeaturesPlugin', '{"pixelSizeMicrons": 1.0,  "region": "ROI",  "tileSizeMicrons": 25.0,  "channel1": true,  "channel2": true,  "channel3": true,  "channel4": true,  "channel5": true,  "channel6": true,  "channel7": true,  "channel8": true,  "channel9": true,  "channel10": true,  "channel11": true,  "channel12": true,  "channel13": true,  "channel14": true,  "channel15": true,  "channel16": true,  "channel17": true,  "channel18": true,  "channel19": true,  "channel20": true,  "channel21": true,  "channel22": true,  "doMean": false,  "doStdDev": false,  "doMinMax": false,  "doHaralick": true,  "haralickMin": 0.0,  "haralickMax": 1000.0,  "haralickDistance": 1,  "haralickBins": 32}');

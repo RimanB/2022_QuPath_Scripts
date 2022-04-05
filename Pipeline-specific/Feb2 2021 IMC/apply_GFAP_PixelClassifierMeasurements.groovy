@@ -1,0 +1,4 @@
+selectAnnotations();
+addPixelClassifierMeasurements("GFAP_pixel_thresh_15", "GFAP_pixel_thresh_15")
+selectAnnotations();
+runPlugin('qupath.lib.algorithms.IntensityFeaturesPlugin', '{"pixelSizeMicrons": 1.0,  "region": "ROI",  "tileSizeMicrons": 25.0,  "channel1": false,  "channel2": false,  "channel3": false,  "channel4": true,  "channel5": false,  "channel6": false,  "channel7": false,  "channel8": false,  "channel9": false,  "channel10": false,  "channel11": false,  "channel12": false,  "channel13": false,  "channel14": false,  "channel15": false,  "channel16": false,  "channel17": false,  "channel18": false,  "channel19": false,  "channel20": false,  "doMean": true,  "doStdDev": true,  "doMinMax": false,  "doHaralick": false,  "haralickMin": NaN,  "haralickMax": NaN,  "haralickDistance": 1,  "haralickBins": 32}');
